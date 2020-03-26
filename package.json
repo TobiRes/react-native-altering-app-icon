@@ -1,6 +1,6 @@
 {
   "name": "react-native-altering-app-icon",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Dynamically change the app icon on iOS in React Native\"",
   "main": "index.js",
   "repository": {
@@ -16,5 +16,8 @@
     "app-icon",
     "Dynamic Icons",
     "iOS Icons"
-  ]
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.41.2"
+  }
 }
