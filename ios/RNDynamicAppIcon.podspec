@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage     = ""
   s.license      = "MIT"
   s.author             = { "author" => "tobi@devloft.de" }
-  s.platform     = :ios, "10.3"
+  s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/TobiRes/react-native-altering-app-icon", :tag => "master" }
   s.source_files  = "RNDynamicAppIcon/**/*.{h,m}"
   s.requires_arc = true
