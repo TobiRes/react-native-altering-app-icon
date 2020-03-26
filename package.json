@@ -1,12 +1,13 @@
 {
   "name": "react-native-altering-app-icon",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Dynamically change the app icon on iOS in React Native\"",
   "main": "index.js",
   "repository": {
     "url": "https://github.com/TobiRes/react-native-altering-app-icon.git",
     "type": "git"
   },
+  "homepage": "https://github.com/TobiRes/react-native-altering-app-icon.git",
   "author": "Devloft ",
   "license": "MIT",
   "keywords": [
