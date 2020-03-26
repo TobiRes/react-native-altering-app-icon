@@ -3,6 +3,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:RNDynamicIcons.xcodeproj">
+      location = "group:RNDynamicAppIcon.xcodeproj">
    </FileRef>
 </Workspace>
+  

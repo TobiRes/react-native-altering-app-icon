@@ -3,9 +3,9 @@ declare module "react-native-altering-app-icon" {
 
         static dynamicAppIconSupported(): Promise<boolean>;
 
-        static switchAppIcon(iconName: string);
+        static switchAppIcon(iconName: string): void;
 
-        static getIconName();
+        static getIconName(): any;
 
     }
 }

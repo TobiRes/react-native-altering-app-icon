@@ -17,6 +17,12 @@ Dynamically change the App Icon on iOS in your React Native App.
 $ yarn add react-native-altering-app-icon
 ```
 
+or with npm
+
+```
+$ npm i react-native-altering-app-icon
+```
+
 ### Link Package
 
 ```
