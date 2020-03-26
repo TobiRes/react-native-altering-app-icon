@@ -1,9 +1,9 @@
 
 #import "React/RCTLog.h"
 
-#import "RNDynamicIcons.h"
+#import "RNDynamicAppIcon.h"
 
-@implementation RNDynamicIcons
+@implementation RNDynamicAppIcon
 
 #define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v)  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)
 

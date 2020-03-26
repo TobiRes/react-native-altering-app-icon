@@ -1,5 +1,5 @@
 import { NativeModules } from 'react-native';
 
-const { RNDynamicIcons } = NativeModules;
+const { RNDynamicAppIcon } = NativeModules;
 
-export default RNDynamicIcons;
+export default RNDynamicAppIcon;
